@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:01:44.909882
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1b0010_WYG_003-1a>¶
 欽定四庫全書¶
 　尚書講義卷三　　　　　　宋　史浩　撰¶
@@ -284,4 +286,3 @@
 <pb:KR1b0010_WYG_003-16b>¶
 　内也嗚呼伯益惟徳動天之一語實萬世人臣事君¶
 　之定法聖人復起不易其言矣¶
-

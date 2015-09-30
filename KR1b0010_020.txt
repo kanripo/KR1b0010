@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:01:45.336961
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1b0010_WYG_020-1a>¶
 欽定四庫全書¶
 　尚書講義卷二十　　　　　宋　史浩　撰¶
@@ -315,4 +317,3 @@
 俾不達是不能容以不能保我子孫黎民亦曰殆哉邦¶
 之杌隉曰由一人邦之榮懷亦尚一人之慶(按此篇講/義永樂大)¶
 (典原/闕)¶
-

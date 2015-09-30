@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:01:45.111308
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1b0010_WYG_011-1a>¶
 欽定四庫全書¶
 　尚書講義卷十一　　　　　宋　史浩　撰¶
@@ -376,4 +378,3 @@
 　武王之功成於武成而其要則在於惇信明義崇德¶
 　報功惟此八字可引以為武王之徽號以其所紀之¶
 　實也嗚呼此其所以垂拱無為而治定也¶
-

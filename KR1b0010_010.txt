@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:01:45.083065
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1b0010_WYG_010-1a>¶
 欽定四庫全書¶
 　尚書講義卷十　　　　　　宋　史浩　撰¶
@@ -384,4 +386,3 @@
 　道不俟計謀而斷然不惑故不置一言於其間也嗚¶
 　呼非孔子至聖安能察二人之心而同與比干為三¶
 　仁哉¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:01:44.982778
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1b0010_WYG_006-1a>¶
 欽定四庫全書¶
 　尚書講義卷六　　　　　　宋　史浩　撰¶
@@ -387,4 +389,3 @@
 　士綴文為賛亦曰夏商其心則其去就在尹而不¶
 　在湯矣湯所以拳拳事桀之義安在哉嗚呼此汝鳩¶
 　汝方之書亡所以為可惜也¶
-

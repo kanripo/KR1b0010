@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:01:45.212255
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1b0010_WYG_015-1a>¶
 欽定四庫全書¶
 　尚書講義卷十五　　　　　宋　史浩　撰¶
@@ -401,4 +403,3 @@
 <pb:KR1b0010_WYG_015-23a>¶
 　二月周公乃還政以居洛周公相成王誕保文武之¶
 　民至是七年亦可以還政矣此皆史氏之紀也¶
-

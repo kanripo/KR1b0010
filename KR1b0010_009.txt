@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:01:45.047709
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1b0010_WYG_009-1a>¶
 欽定四庫全書¶
 　尚書講義卷九　　　　　　宋　史浩　撰¶
@@ -530,4 +532,3 @@
 　而考其治病之方因而以醫名者多矣此盤庚所以¶
 　知水也按春秋宋災子罕祀盤庚於西門盤庚非水¶
 　神安能以勝火災此其證也惜乎其詳不經見也¶
-

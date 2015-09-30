@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:01:45.138631
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1b0010_WYG_012-1a>¶
 欽定四庫全書¶
 　尚書講義卷十二　　　　　宋　史浩　撰¶
@@ -612,4 +614,3 @@
 　家廟賜祭器先王之遺意也而俗儒不學妄謂家廟¶
 　不當立祭器不當賜是以識者臨編痛惜此書之亡¶
 　也¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:01:45.188464
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1b0010_WYG_014-1a>¶
 欽定四庫全書¶
 　尚書講義卷十四　　　　　宋　史浩　&KR0103;¶
@@ -366,4 +368,3 @@
 越厥疆土於先王肆王惟徳用和懌先後迷民用懌先¶
 王受命巳若兹監惟曰欲至于萬年惟王子子孫孫永¶
 保民(案此篇講義永/樂大典原缺)¶
-

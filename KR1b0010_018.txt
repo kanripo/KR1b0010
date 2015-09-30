@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書講義
-#+DATE: 2015-09-23 09:35:53
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:01:45.275039
+#+PROPERTY: ID KR1b0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1b0010_WYG_018-1a>¶
 欽定四庫全書¶
 　尚書講義卷十八　　　　　宋　史浩　撰¶
@@ -493,4 +495,3 @@
 　民豈不如草之偃風乎時乃丕變允升于大道矣豈¶
 　惟我享爾之多福抑爾無窮之休無窮之聞亦在於¶
 　是也君陳其勉之¶
-
